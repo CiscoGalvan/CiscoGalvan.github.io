@@ -3,7 +3,7 @@ layout: home
 title: Portfolio
 landing-title: Career Portfolio
 description: null
-image: assets/images/pic07.jpg
+image:  forty-jekyll-theme/assets/images/pic07.jpg
 author: null
 show_tile: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image:  forty-jekyll-theme/assets/images/pic11.jpg
 nav-menu: true
 ---
 
