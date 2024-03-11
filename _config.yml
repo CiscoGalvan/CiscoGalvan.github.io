@@ -1,7 +1,8 @@
 # site settings
 title: Inicio
 email: francisgalvan@hotmail.es
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+# <br />
+description: Hi! My name is Francisco and this are some of the projects<br /> I've worked on in my 3 years studying Game Development :)
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Francisco Miguel Galván Muñoz
