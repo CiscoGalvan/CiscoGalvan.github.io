@@ -1,9 +1,9 @@
 ---
 layout: home
-title: AAAAAAAAAAAAAAA
-landing-title: 'Hola, my name is Forty'
+title: Portfolio
+landing-title: Career Portfolio
 description: null
-image: null
+image: assets/images/pic07.jpg
 author: null
 show_tile: false
 ---
