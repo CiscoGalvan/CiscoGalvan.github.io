@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image:  forty-jekyll-theme/assets/images/pic01.jpg
+image:  forty-jekyll-theme/assets/images/pic03.jpg
 nav-menu: true
 ---
 
