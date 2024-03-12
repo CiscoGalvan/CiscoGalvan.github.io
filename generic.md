@@ -13,64 +13,74 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
+    <center>
+		<p>Now, I'll be showing you some of my Unity projects. Since Unity was the first game engine I learned how to use, these were my first projects and they mean a lot to me :)</p>
+	</center>
+    </div>
 </section>
 </div>
 
+  <section>
+   <center>
+		<header class="major" data-position="center center">
+            <h2>Neon Rising</h2>
+        </header>
+   </center>
+	</section>
+    
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="forty-jekyll-theme/assets/images/NeonRising04.jpeg" alt="" data-position="center center"/>
+		<a class="image">
+			<img src="forty-jekyll-theme/assets/images/NeonRising04.jpeg" alt="" data-position="left center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Neon Rising was my first project as a game developer. It is a vertical platform game where you have to use your bow to kill enemies and to teleport where the arrow hits on your way to climb way up high until reaching the one that killed your father in your childhood. </p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link  forty-jekyll-theme/assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a class="image">
+			<img src="forty-jekyll-theme/assets/images/NeonRising02.jpeg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>My Apportation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>In this project I was the one that had the first ideas of what we could do so then I worked in the design of both mechanics and dynamics of the game. I programmed the enemies behaviour, most of the GameManager and I was in charge of doing the test plan (it was mandatory) which turned out to be our tutorial</p>
 			</div>
 		</div>
 	</section>
+    <section>
+    </section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link  forty-jekyll-theme/assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
+			     <ul class="actions">
+					<li><a href="https://sjulvez.wixsite.com/-neonrising" class="button">Project Website</a></li>
+				</ul> 
+                  <ul class="actions">
+					<li><a href="https://github.com/Proyectos1-FDI-UCM/c2022-Grupo06" class="button">Project Repository</a></li>
+				</ul> 
 	</section>
 </section>
+
+
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+    <center>
+		<video width="640" height="360" controls>
+            <source src="forty-jekyll-theme/assets/images/TrailerNeonRising.mp4" type="video/mp4">
+        </video>
+    </center>
+		<!-- Main -->
+<div id="main">
+
+
 
 <!-- In this page I will be presenting my Unity projects at the time. 
 
