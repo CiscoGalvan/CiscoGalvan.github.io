@@ -48,7 +48,7 @@ nav-menu: true
                     <header class="major">
                         <h3>Conclusions</h3>
                     </header>
-                    <p>Afterall, It was really nice because as I said, this was where I started. We had to get used to working with VCSs (Version Control Systems) in this case GitHub and I learned a lot on how to work right in groups of people as we had to divide our work in milestones and sprints while we used Trello to have track of our issues.  </p>
+                    <p>After all, It was really nice because as I said, this was where I started. We had to get used to working with VCSs (Version Control Systems) in this case GitHub and I learned a lot on how to work right in groups of people as we had to divide our work in milestones and sprints while we used Trello to have track of our issues.  </p>
                 </div>
             </div>
         </section>
@@ -112,7 +112,7 @@ nav-menu: true
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                        <h3>Conclusions</h3>
+                        <h3>My Apportation</h3>
                     </header>
                     <p>As it was a project involved in a lot of caos, I did work in almost every field (maybe excepting the sounds gestion) but what I enjoyed the most was designing the game levels because to do it we had to be in in the head of the players, think as them.</p>
                 </div>
@@ -125,7 +125,7 @@ nav-menu: true
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                        <h3>My Apportation</h3>
+                        <h3>Conclusions</h3>
                     </header>
                     <p>It was a really nice experience because all that stress and pressure made me feel as it was a great step on my way of becoming a game developer because I knew that I was going to learn a lot with that experience and I'm looking forward to do more look alike events.</p>
                 </div>
