@@ -140,3 +140,23 @@ nav-menu: true
 
 </div>
 
+
+<div id="main" class="alt">
+    <!-- Two -->
+    <section id="two">
+        <div class="inner">
+            <center>
+            <header class="major" data-position="center center">
+                <h3>Trailer</h3>
+            </header>
+            </center>
+            <center>
+                <video width="640" height="360" controls>
+                    <source src="forty-jekyll-theme/assets/images/Trailer.mp4" type="video/mp4">
+                </video>
+            </center>
+        </div>
+    </section>
+
+</div>
+
