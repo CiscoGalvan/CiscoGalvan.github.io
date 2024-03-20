@@ -84,11 +84,11 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-
-<a class="image">
-	<img src="forty-jekyll-theme/assets/images/EndMenu.png" alt="" data-position="top center" />
-</a>
-
+<center>
+<video width="640" height="360" controls>
+    <source src="forty-jekyll-theme/assets/images/Gameplay Arkanoid.mp4" type="video/mp4">
+</video>
+</center>
 </div>
 
 
@@ -147,9 +147,11 @@ nav-menu: true
 	</div>
 </div>
 
-<a class="image">
-	<img src="forty-jekyll-theme/assets/images/EndMenu.png" alt="" data-position="top center" />
-</a>
+<center>
+<video width="640" height="360" controls>
+    <source src="forty-jekyll-theme/assets/images/Gameplay Asteroids.mp4" type="video/mp4">
+</video>
+</center>
 
 </div>
 
@@ -169,5 +171,78 @@ nav-menu: true
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 <blockquote>While the other games were projects without possibility of designing whatever we wanted, in The Fifth Element we had creative freedom.<br>
- </blockquote>
+The Fifth Element is a project that came from an idea I had of making a beat em up game with a Pokemon based exploration system. So we combined both ideas and the game was born.<br> The game starts when you receive a letter from one of your sibling telling you that he has died and you have to reunite your other four siblings in other to accomplish his last wish, seen you all together again. <br> After the letter you will have to confront a lot of enemies from different kinds of elements in order to explore the 5 kingdoms, in each kingdom you will encounter one of your siblings that will take part of your team. <br> In each fight you will be able to switch between sibling whenever you want to take advantage of the enemies week points. </blockquote>
+</div>
+
+<div class="6u$ 12u$(medium)">
+
+<a class="image">
+	<img src="forty-jekyll-theme/assets/images/TheFifthElementMainMenu.png" alt="" data-position="top center" />
+</a>
+<center>
+<ul class="actions">
+                <li><a href="https://github.com/PabloCerrada/Asteroids" class="button">Project Repository</a></li>
+            </ul>
+</center>
+</div>
+
+<div class="row">
+	<div class="6u 12u$(medium)">
+			<center><h3>Top Down Mode</h3></center>
+		<a class="image">
+                <img src="forty-jekyll-theme/assets/images/TopDown.png" alt="" data-position="top center" />
+            </a>
+	</div>
+	<div class="6u$ 12u$(medium)">
+			<center><h3>Beat Em Up Mode</h3></center>
+		<a class="image">
+                <img src="forty-jekyll-theme/assets/images/BeatEmUp.png" alt="" data-position="top center" />
+            </a>
+	</div>
+</div>
+
+<section id="one">
+	<div class="inner">
+	<center>
+		<header class="major">
+			<h2>My Experience</h2>
+		</header>
+	</center>
+
+ <section id="two" class="spotlights">
+        <section>
+            <a class="image">
+                <img src="forty-jekyll-theme/assets/images/NeonRising02.jpeg" alt="" data-position="top center" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>My Apportation</h3>
+                    </header>
+                    <p>In this project I was the one that had the first ideas of what we could do so then I worked in the design of both mechanics and dynamics of the game. I programmed the enemies behaviour, most of the GameManager and I was in charge of doing the test plan (it was mandatory) which turned out to be our tutorial</p>
+                </div>
+            </div>
+        </section>
+         <section>
+            <a class="image">
+                <img src="forty-jekyll-theme/assets/images/NeonRising01.jpeg" alt="" data-position="top center" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>Conclusions</h3>
+                    </header>
+                    <p>After all, It was really nice because as I said, this was where I started. We had to get used to working with VCSs (Version Control Systems) in this case GitHub and I learned a lot on how to work right in groups of people as we had to divide our work in milestones and sprints while we used Trello to have track of our issues.  </p>
+                </div>
+            </div>
+        </section>
+        <section>
+            <ul class="actions">
+                <li><a href="https://sjulvez.wixsite.com/-neonrising" class="button">Project Website</a></li>
+            </ul> 
+            <ul class="actions">
+                <li><a href="https://github.com/Proyectos1-FDI-UCM/c2022-Grupo06" class="button">Project Repository</a></li>
+            </ul> 
+        </section>
+    </section>
 </div>
