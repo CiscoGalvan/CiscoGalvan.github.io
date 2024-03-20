@@ -179,11 +179,6 @@ The Fifth Element is a project that came from an idea I had of making a beat em 
 <a class="image">
 	<img src="forty-jekyll-theme/assets/images/TheFifthElementMainMenu.png" alt="" data-position="top center" />
 </a>
-<center>
-<ul class="actions">
-                <li><a href="https://github.com/PabloCerrada/Asteroids" class="button">Project Repository</a></li>
-            </ul>
-</center>
 </div>
 
 <div class="row">
@@ -212,36 +207,87 @@ The Fifth Element is a project that came from an idea I had of making a beat em 
  <section id="two" class="spotlights">
         <section>
             <a class="image">
-                <img src="forty-jekyll-theme/assets/images/NeonRising02.jpeg" alt="" data-position="top center" />
+                <img src="forty-jekyll-theme/assets/images/Grupo.jpeg" alt=""   />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>Group Management</h3>
+                    </header>
+                    <p>In this project we had to work in big groups (our group was eleven people), so the group management was very important in order to work efficiently. To be updated of the group work, we did weekly meetings every Sunday. In those meetings I was the one coordinating it and at the end of the meetings I put our weekly goals for every team member (I did that work in every field excepting the arts field).<br> When we were working presentially, I tried to help everyone I could and I tried to make a relaxed ambient, because when stress makes it out, it is not that easy to work in groups.<br>At the end I was very proud we could end our project and having learnt everything I did was very pleasant for me</p>
+                </div>
+            </div>
+        </section>
+		<section>
+            <a class="image">
+                <img src="forty-jekyll-theme/assets/images/Grupo.jpeg" alt=""  height="500" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>Project Arquitecture</h3>
+                    </header>
+                    <p>This project was entirely made in SDL. At first we wanted to have a generical class Entity and every single object inheriting from it, but when we saw that the project size was scaling to levels we never knew we changed to a component architecture.<br> In terms of game states we had a GameStateMachine which was a Singleton and took care of work properly with the states, and when the state was erased, it had to destroy every single element of it to avoid having trash.</p>
+                </div>
+            </div>
+        </section>
+        <section>
+            <a class="image">
+                <img src="forty-jekyll-theme/assets/images/CollisionBoxes.png" alt="" data-position="top center" />
             </a>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                         <h3>My Apportation</h3>
                     </header>
-                    <p>In this project I was the one that had the first ideas of what we could do so then I worked in the design of both mechanics and dynamics of the game. I programmed the enemies behaviour, most of the GameManager and I was in charge of doing the test plan (it was mandatory) which turned out to be our tutorial</p>
+                    <p>At the begining of the project I was in charge of setting up the SDL project along with other members of the group and I desinged what we wanted the game to look like.<br>I created the first enemies in the TopDownMode and made their entire AI. The way they detect the player is by collision boxes. In the picture in the left, we can see how there are two boxes in front of the enemy, the bigger one warn the player that he's been seen by the enemy and the one inside it, if the player collides a fight starts.</p>
                 </div>
             </div>
         </section>
-         <section>
+		<section>
             <a class="image">
-                <img src="forty-jekyll-theme/assets/images/NeonRising01.jpeg" alt="" data-position="top center" />
+				   <img src="forty-jekyll-theme/assets/images/CollisionBoxes.png" alt="" data-position="top center" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>My Apportation</h3>
+                    </header>
+                    <p>I made the entire combat system, based in collision boxes too. The player can make combos hitting the attack button up to three times and can make special attacks too if it is not in delay time. Making it was really hard because every entity have different attack timings, positions, and sizes so the attack boxes spawned must be unique to each character<br><br>When the project was almost done, I noticed that when we closed it, a lot of trash was detected so I had to look script by script in order to delete every single object when the game closed. Even though this kind of work are not that visible, they are so important because it affects efficiency.</p>
+                </div>
+            </div>
+        </section>
+    </section>
+<center>
+<header class="major">
+    <h3>Attack Boxes</h3>
+</header>
+</center>
+<center>
+	<video width="640" height="360" controls>
+  		<source src="forty-jekyll-theme/assets/images/CombatBoxes.mp4" type="video/mp4">
+	</video>
+</center>
+	<section id="two" class="spotlights"> 
+	 <section>
+            <a class="image">
+                <img src="forty-jekyll-theme/assets/images/CollisionBoxes.png" alt="" data-position="top center" />
             </a>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                         <h3>Conclusions</h3>
                     </header>
-                    <p>After all, It was really nice because as I said, this was where I started. We had to get used to working with VCSs (Version Control Systems) in this case GitHub and I learned a lot on how to work right in groups of people as we had to divide our work in milestones and sprints while we used Trello to have track of our issues.  </p>
+                    <p>This project was the one that pushed me more to my limits in terms of being under pressure and it teached me to deal with it. I learnt that in these kind of projects I have to step up and prove myself that I can do it and I have to be proactive, if not everything won't work well. It was really pleasant seeing our project turn to what we had in mind after everything and I had really good memories while developing it.</p>
                 </div>
             </div>
         </section>
-        <section>
+		 <section>
             <ul class="actions">
-                <li><a href="https://sjulvez.wixsite.com/-neonrising" class="button">Project Website</a></li>
+                <li><a href="https://ucm-fdi-disia.github.io/Selery-Studios/" class="button">Project Website</a></li>
             </ul> 
             <ul class="actions">
-                <li><a href="https://github.com/Proyectos1-FDI-UCM/c2022-Grupo06" class="button">Project Repository</a></li>
+                <li><a href="https://github.com/UCM-FDI-DISIA/Selery-Studios" class="button">Project Repository</a></li>
             </ul> 
         </section>
     </section>
