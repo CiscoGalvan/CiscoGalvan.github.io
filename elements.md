@@ -220,7 +220,7 @@ The Fifth Element is a project that came from an idea I had of making a beat em 
         </section>
 		<section>
             <a class="image">
-                <img src="forty-jekyll-theme/assets/images/Grupo.jpeg" alt=""  height="500" />
+                <img src="forty-jekyll-theme/assets/images/fondoPausa.png" alt=""/>
             </a>
             <div class="content">
                 <div class="inner">
@@ -246,7 +246,7 @@ The Fifth Element is a project that came from an idea I had of making a beat em 
         </section>
 		<section>
             <a class="image">
-				   <img src="forty-jekyll-theme/assets/images/CollisionBoxes.png" alt="" data-position="top center" />
+				   <img src="forty-jekyll-theme/assets/images/cappturaBossLuz.png" alt="" data-position="top center" />
             </a>
             <div class="content">
                 <div class="inner">
@@ -271,7 +271,7 @@ The Fifth Element is a project that came from an idea I had of making a beat em 
 	<section id="two" class="spotlights"> 
 	 <section>
             <a class="image">
-                <img src="forty-jekyll-theme/assets/images/CollisionBoxes.png" alt="" data-position="top center" />
+                <img src="forty-jekyll-theme/assets/images/fifth_element.png" alt="" data-position="top center" />
             </a>
             <div class="content">
                 <div class="inner">
