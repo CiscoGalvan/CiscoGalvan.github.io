@@ -1,7 +1,7 @@
 ---
 title: Other projects
 layout: landing
-image:  forty-jekyll-theme/assets/images/pic07.jpg
+image:  forty-jekyll-theme/assets/images/combo.png
 nav-menu: true
 ---
 
@@ -47,7 +47,6 @@ nav-menu: true
 		</div>
 	</section>
 	<center>
-	
 	<section>
 			<ul class="actions">
 				<li><a href="https://github.com/sheilajulvez/PVLI-22-23-G12" class="button">Project Repository</a></li>
