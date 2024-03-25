@@ -1,7 +1,6 @@
 ---
-title: Landing
+title: Other projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image:  forty-jekyll-theme/assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,62 +12,49 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Summary</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>In this section you will find some projects other projects as blender animations or games made in other engines.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link  forty-jekyll-theme/assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+		<video width="640" height="360" controls>
+			<source src="forty-jekyll-theme/assets/images/Cuando la locura llega.mp4" type="video/mp4">
+		</video>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Cuando la locura llega</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>"Cuando la locura llega" is a blender animation I did as a final job for my animation subject and it was inspired by Far Cry 3 villain Vaas Montenegro. Here I tried to recreate his characteristics as a psychopath and exagerate them as we hadn't had time to use other kind of models that could allow us to have face animations. </p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link  forty-jekyll-theme/assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
+		  <a class="image">
+                <img src="forty-jekyll-theme/assets/images/plobo2.png" alt="" data-position="top center" />
+            </a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Plobo</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Plobo was a game made in Phaser and served as my introduction to JavaScript. In Plobo, we attempted to narrate a challenging story, partially based on a story from one of the developers' friends, in a satirical manner.</p>
 			</div>
 		</div>
 	</section>
+	<center>
+	
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link  forty-jekyll-theme/assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
+			<ul class="actions">
+				<li><a href="https://github.com/sheilajulvez/PVLI-22-23-G12" class="button">Project Repository</a></li>
+			</ul>
 	</section>
+	</center>
+	
 </section>
 
 </div>

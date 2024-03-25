@@ -32,8 +32,8 @@ nav-menu: true
 </a>
 <center>
 <ul class="actions">
-                <li><a href="https://github.com/PabloCerrada/Arkanoid" class="button">Project Repository</a></li>
-            </ul>
+    <li><a href="https://github.com/PabloCerrada/Arkanoid" class="button">Project Repository</a></li>
+</ul>
 </center>
 </div>
 

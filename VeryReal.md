@@ -2,7 +2,7 @@
 title: VeryReal
 layout: page
 description: In development
-image:  forty-jekyll-theme/assets/images/SDL.png
+image:  forty-jekyll-theme/assets/images/descarga.jfif
 nav-menu: true
 ---
 
@@ -15,8 +15,13 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Very Real is an videogame engine made by ourselves. To do it, we use known libraries as Ogre, SDL, FMOD or Bullet to implement our own engine. Very Real is still in development but in a few months it will be finished among two games that will run in it.</p>
+		<p>Very Real is an videogame engine made by ourselves. To do it, we use known libraries as Ogre, SDL, FMOD or Bullet to implement our own engine. Very Real is still in development but in a few months it will be finished among two games that will run in it.<br>Here you will find the project repository to see how our engine is going :)</p>
 	</div>
+	<center>
+<ul class="actions">
+    <li><a href="https://github.com/UCM-FDI-DISIA/VeryReal" class="button">Project Repository</a></li>
+</ul>
+	</center>
 </section>
 <!-- 
 <section id="two" class="spotlights">
