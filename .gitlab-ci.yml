@@ -3,6 +3,7 @@ image: ruby
 pages:
   stage: build
   script:
+  - gem update --system 
   - gem install jekyll
   - jekyll build -d public
   artifacts:
