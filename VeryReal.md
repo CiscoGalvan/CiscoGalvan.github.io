@@ -1,7 +1,7 @@
 ---
 title: VeryReal
 layout: page
-description: 
+description: In development
 image:  forty-jekyll-theme/assets/images/logo.png
 nav-menu: true
 ---
