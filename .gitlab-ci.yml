@@ -1,13 +1,43 @@
-image: ruby
+name: Build and Deploy Jekyll Site
 
-pages:
-  stage: build
-  script:
-  - gem update --system 
-  - gem install jekyll
-  - jekyll build -d public
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
+on:
+  push:
+    branches:
+      - master  # o la rama en la que quieras desplegar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Se ejecutará en un entorno de Ubuntu
+    
+    steps:
+      # Paso 1: Obtener el código del repositorio
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Paso 2: Configurar Ruby
+      - name: Set up Ruby 3.x
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1  # o la versión de Ruby que estés usando
+
+      # Paso 3: Actualizar RubyGems
+      - name: Update RubyGems to latest version
+        run: gem update --system  # Esto actualizará RubyGems a la última versión
+
+      # Paso 4: Instalar Jekyll y dependencias
+      - name: Install Jekyll and dependencies
+        run: |
+          gem install jekyll  # Instalar Jekyll
+          bundle install      # Instalar dependencias definidas en Gemfile (si tienes uno)
+
+      # Paso 5: Construir el sitio
+      - name: Build the Jekyll site
+        run: |
+          bundle exec jekyll build  # Construir el sitio con Jekyll
+
+      # Paso 6: Desplegar el sitio a GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Usa el token de GitHub para autenticar
+          publish_dir: ./_site  # Carpeta donde se genera el sitio Jekyll
