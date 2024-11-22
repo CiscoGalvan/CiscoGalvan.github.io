@@ -2,7 +2,7 @@
 title: AboutMe
 layout: page
 description: 
-image:  forty-jekyll-theme/assets/images/logo.png
+image:  forty-jekyll-theme/assets/images/AboutMe1.jpeg
 nav-menu: true
 ---
 
