@@ -35,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="forty-jekyll-theme/assets/images/AboutMe3.jpeg" alt="" data-position="top center" />
+			<img src="forty-jekyll-theme/assets/images/AboutMe.jpeg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -49,7 +49,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a  class="image">
-			<img src="forty-jekyll-theme/assets/images/AboutMe4.jpeg" alt="" data-position="25% 25%" />
+			<img src="forty-jekyll-theme/assets/images/AboutMe2.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
