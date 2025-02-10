@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Hi! I’m Francisco Miguel, a passionate game developer driven by a love for video games since I was a child.Been involved in the videogames industry has always been my goal for years and to achieve that goal I had to leave my hometown Barbate, which is a small city in the south of Spain, in order to studying in Universidad Complutense de Madrid</p>
+		<p>Hi! I’m Francisco Miguel, a passionate game developer driven by a love for video games since I was a child. Been involved in the videogames industry has always been my goal for years and to achieve that goal I had to leave my hometown Barbate, which is a small city in the south of Spain, in order to studying in Universidad Complutense de Madrid</p>
 	</div>
 </section>
 
@@ -56,7 +56,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Leaving home</h3>
 				</header>
-				<p>At the time I finished high school I already knew where I wanted to study, in Universidad Complutense de Madrid, and with the constant support of my parents I had the possibility of goind to the capital in order to follow my dreams.<br>
+				<p>At the time I finished high school I already knew where I wanted to study, in Universidad Complutense de Madrid, and with the constant support of my parents I had the possibility of going to the capital in order to follow my dreams.<br>
 				Here I've meet a lot of new friends and certain people that have truly changed my life like my girlfriend Patricia which has helped me a lot in my university time and has helped me make other dreams come true like going to watch some League of Legends e-sports abroad.</p>
 			</div>
 		</div>
@@ -76,5 +76,4 @@ nav-menu: true
 		</div>
 	</section>
 </section> 
-
 </div>
